@@ -1,0 +1,22 @@
+{
+  "name": "fundamental",
+  "version": "1.0.0",
+  "description": "Fundamental bot",
+  "main": "Key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravgar",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.10.0",
+    "discord-banners": "^1.0.1",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.4.3",
+    "parse-ms": "^3.0.0",
+    "pretty-ms": "^8.0.0",
+    "table": "^6.8.0"
+  }
+}

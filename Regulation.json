@@ -1,0 +1,18 @@
+{
+"FundamentalToken": "Aptal Bot TOKEN",
+"OperatorToken": "Aptal Bot TOKEN",
+"StatisticsToken": "Aptal Bot TOKEN",
+"DatabaseCenter": "Aptal Botcu MONGO URL",
+
+"Prefix": ".",
+"BotOwnerID": ["aptal botcu id'si"],
+"guildID": "",
+"BotSetFooter": "ravgar çok iyi adam he",
+
+"_ReadyVoiceChannelID": "Bot Ses Kanal",
+"_ReadyActivity": "ravgar çok iyi adam he",
+"_ReadyURL": "https://twitch.tv/ravgarcık",
+"_ReadyType": "STREAMING"
+
+
+}
