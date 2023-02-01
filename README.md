@@ -1,4 +1,4 @@
-# Boş Atmak İstemedim Yarısı Tamamlanmış Bir Bot Geliştirmesi Size Kalmıştır.
+# Boş Atmak İstemedim Yarısı Tamamlanmış Bir Bot Alıntı Vardır Az Da Olsa Geliştirmesi Size Kalmıştır.
 
 # 2-3 Boş Adama Minnet Etmeyin Onların Patlak Botlarını Kullanmayın Die Atıyorum `Saygılar Sevgiler`
 ```js
